@@ -1,1 +1,7 @@
-"# deep-downscaling-overview" 
+# Overview Deep Learning for Climate Downscaling/Super-Resolution
+
+| Title | Input data | Target data| Model(s) | Baselines | Metrics | Paper | Code | Year | Month |
+| Fast and accurate learned multiresolution dynamical downscaling for precipitation | WRF precip., T2, IWV, SLP, topography | WRF Precip. | cGAN | CNN, bilinear | MSE, J-S distance, pattern corr. |  https://gmd.copernicus.org/articles/14/6355/2021/gmd-14-6355-2021.pdf | https://github.com/lzhengchun/DSGAN | 2021 | Oct |
+| Deep-Learning-Based Gridded Downscaling of Surface Meteorological Variables in Complex Terrain. Part I: Daily Maximum and Minimum 2-m Temperature| Downsampled PRISM, elevation | TMAX/TMIN PRISM | UNet | bicubic, regression | MAE, pearson, corr. | https://journals.ametsoc.org/view/journals/apme/59/12/jamc-d-20-0057.1.xml | 2020 | Nov |
+| Adversarial super-resolution of climatological wind and solar data | NREL Wind toolkit + NSRDB downsampled (train), NCAR CCSM (test)| NREL Wind toolkit + NSRDB | GAN | | | |  | |
+| Configuration and Intercomparison of Deep Learning Neural Models for Statistical Downscaling | ERA-Interim geopot., zonal + mer. wind, tempt, humidity| E-Obs temp. precip. | CNN | CNN, GLM | bias mean, bias 2-perc., bias 98-perc., RMSE, Pearson correlation, Spearman correlation, ROC sklill score | https://gmd.copernicus.org/preprints/gmd-2019-278/gmd-2019-278.pdf | https://github.com/SantanderMetGroup/DeepDownscaling | 2020 | Apr |
