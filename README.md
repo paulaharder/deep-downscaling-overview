@@ -23,6 +23,8 @@
 | Downscaling multi-model climate projection ensembles with deep learning (DeepESD): contribution to CORDEX EUR-44 | - | - | - | - | - |  https://gmd.copernicus.org/articles/15/6747/2022/ | - | 2022 | Sept |
 | Repeatable high-resolution statistical downscaling through deep learning | - | - | - | - | - | https://gmd.copernicus.org/articles/15/7353/2022/gmd-15-7353-2022.pdf | - | 2022 | Aug |
 | Downscaling Earth System Models with Deep Learning | - | - | - | - | - | https://dl.acm.org/doi/pdf/10.1145/3534678.3539031 | - | 2022 | Aug |
+| Machine Learning as a Downscaling Approach for Prediction of Wind Characteristics under Future Climate Change Scenarios |  - | - | - | - | - | https://www.hindawi.com/journals/complexity/2022/8451812/ | - | 2022 | Aug |
+| Regional climate model emulator based on deep learning: concept and first evaluation of a novel hybrid downscaling approach | - | - | - | - | - | https://link.springer.com/article/10.1007/s00382-022-06343-9 | - | 2022 | Jul |
 | A Novel Bayesian Deep Learning Approach to the Downscaling of Wind Speed with Uncertainty Quantification | - | - | - | - | - | https://link.springer.com/chapter/10.1007/978-3-031-05981-0_5 | - | 2022 | May |
 | On deep learning-based bias correction and downscaling of multiple climate models simulations | - | - | - | - | - | https://link.springer.com/article/10.1007/s00382-022-06277-2 | - | 2022 | Apr | 
 | Wind-Topo: Downscaling near-surface wind fields to high-resolution topography in highly complex terrain with deep learning | - | - | - | - | - | https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.4265 | - | 2022 | Mar |
@@ -66,8 +68,9 @@
 | Generalization Properties of Machine-Learning Based Weather Model Downscaling | - | - | - | - | - | https://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth25.pdf | - | 2020 | May |
 | Configuration and Intercomparison of Deep Learning Neural Models for Statistical Downscaling | ERA-Interim geopot., zonal + mer. wind, tempt, humidity| E-Obs temp. precip. | CNN | CNN, GLM | bias mean, bias 2-perc., bias 98-perc., RMSE, Pearson correlation, Spearman correlation, ROC sklill score | https://gmd.copernicus.org/preprints/gmd-2019-278/gmd-2019-278.pdf | https://github.com/SantanderMetGroup/DeepDownscaling | 2020 | Apr |
 | ResLab: Generating High-Resolution Climate Prediction Through Image Super-Resolution | CMA precip, humidity downsampled, topography | CMA precip | CNN | bilinear, DeepSD, VDSR, ESPCN, RDN, LapSRN| RMSE, prediction correction, prediction ommision, fasle alarm ratio, threat score  | https://ieeexplore.ieee.org/document/9001044 | https://github.com/Jianxin-Cheng/SR-Climate-Prediction | 2020 | Febr |
+| Performance of statistical and machine learning ensembles for daily temperature downscaling | - | - | - | - | - | https://link.springer.com/article/10.1007/s00704-020-03098-3 | - | 2020 |
 
-## Papers from 2012 and 2017-2019
+## Papers from 2017-2019
 | Title | Input data | Target data| Model(s) | Baselines | Metrics | Paper | Code | Year | Month |
 | -------- | ----- | -------- | ------- | ---- | ----- | ------- | ----- | ---- | ----- |
 | Downscaling numerical weather models with GANs | - | - | - | - | - | https://alok.github.io/assets/ci-2019.pdf | - | 2019 | Oct |
@@ -76,6 +79,7 @@
 | Intercomparison of machine learning methods for statistical downscaling: the case of daily and extreme precipitation | - | - | - | - | - | https://link.springer.com/article/10.1007/s00704-018-2613-3 | - | 2018 | Sept |
 | Generating High Resolution Climate Change Projections through Single Image Super-Resolution: An Abridged Version | - | - | - | - | - | https://www.ijcai.org/proceedings/2018/0759.pdf | - | 2018 | Aug |
 | Statistical downscaling of precipitation using long short-term memory recurrent neural networks | - | - | - | - | - | https://link.springer.com/article/10.1007/s00704-017-2307-2 | - | 2017 | Nov | 
+| A Machine Learning Approach to Non-uniform Spatial Downscaling of Climate Variables | - | - | - | - | - | https://ieeexplore.ieee.org/abstract/document/8215681 | - | 2017 | Nov |
 | DeepSD: Generating High-Resolution Climate Change Projections through Single Image Super-Resolution | - | - | - | - | - | https://dl.acm.org/doi/10.1145/3097983.3098004 | https://github.com/tjvandal/deepsd | 2017 | Aug |
 
 At the moment not included: Other ML techniques than Deep Learning and application to satellite imagery.
