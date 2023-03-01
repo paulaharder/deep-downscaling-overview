@@ -12,7 +12,7 @@
 ## Papers from 2022
 | Title | Input data | Target data| Model(s) | Baselines | Metrics | Paper | Code | Year | Month |
 | -------- | ----- | -------- | ------- | ---- | ----- | ------- | ----- | ---- | ----- |
-| High-resolution downscaling with interpretable deep learning: Rainfall extremes over New Zealand | - | - | - | - | - | https://www.sciencedirect.com/science/article/pii/S2212094722001049 | - | 2022 | Dec |
+| High-resolution downscaling with interpretable deep learning: Rainfall extremes over New Zealand | - | - | - | - | - | https://www.sciencedirect.com/science/article/pii/S2212094722001049 |- | 2022 | Dec |
 | Downscaling Extreme Rainfall Using Physical-Statistical Generative Adversarial Learning | - | - | - | - | - | https://arxiv.org/pdf/2212.01446.pdfhttps://arxiv.org/pdf/2212.01446.pdf | 2022 | Dec |
 | Downscaled hyper-resolution (400 m) gridded datasets of daily precipitation and temperature (2008–2019) for the East–Taylor subbasin (western United States) | - | - | - | - | - | https://essd.copernicus.org/articles/14/4949/2022/ | 2022 | Nov |
 | ResDeepD: A residual super-resolution network for deep downscaling of daily precipitation over India | - | - | - | - | - | https://www.cambridge.org/core/journals/environmental-data-science/article/resdeepd-a-residual-superresolution-network-for-deep-downscaling-of-daily-precipitation-over-india | - | 2022 | Nov |
@@ -25,6 +25,7 @@
 | Downscaling Earth System Models with Deep Learning | - | - | - | - | - | https://dl.acm.org/doi/pdf/10.1145/3534678.3539031 | - | 2022 | Aug |
 | Machine Learning as a Downscaling Approach for Prediction of Wind Characteristics under Future Climate Change Scenarios |  - | - | - | - | - | https://www.hindawi.com/journals/complexity/2022/8451812/ | - | 2022 | Aug |
 | Regional climate model emulator based on deep learning: concept and first evaluation of a novel hybrid downscaling approach | - | - | - | - | - | https://link.springer.com/article/10.1007/s00382-022-06343-9 | - | 2022 | Jul |
+| On the modern deep learning approaches for precipitation downscaling | - | - | - | - | - | https://arxiv.org/abs/2207.00808 |- | 2022 | Jul |
 | A Novel Bayesian Deep Learning Approach to the Downscaling of Wind Speed with Uncertainty Quantification | - | - | - | - | - | https://link.springer.com/chapter/10.1007/978-3-031-05981-0_5 | - | 2022 | May |
 | On deep learning-based bias correction and downscaling of multiple climate models simulations | - | - | - | - | - | https://link.springer.com/article/10.1007/s00382-022-06277-2 | - | 2022 | Apr | 
 | Wind-Topo: Downscaling near-surface wind fields to high-resolution topography in highly complex terrain with deep learning | - | - | - | - | - | https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.4265 | - | 2022 | Mar |
@@ -46,6 +47,7 @@
 | A downscaling approach for constructing high-resolution precipitation dataset over the Tibetan Plateau from ERA5 reanalysis | - | - | - | - | - | https://www.sciencedirect.com/science/article/pii/S0169809521001265 | - | 2021 | Jul | 
 | Comparisons of Machine Learning Methods of Statistical Downscaling Method: Case Studies of Daily Climate Anomalies in Thailand | - | - | - | - | - | https://journals.riverpublishers.com/index.php/JWE/article/view/4869 | - | 2021 | Jul |
 | Adjusting spatial dependence of climate model outputs with cycle-consistent adversarial networks |  - | - | - | - | - | https://link.springer.com/article/10.1007/s00382-021-05869-8 | - | 2021 | Jul |
+| On the suitability of deep convolutional neural networks for continental-wide downscaling of climate change projections |  - | - | - | - | - | https://link.springer.com/article/10.1007/s00382-021-05847-0 | - | 2021 | Jun |
 | Spatio-\ Downscaling of Climate Data Using Convolutional and Error-Predicting Neural Networks | - | - | - | - | - | https://www.frontiersin.org/articles/10.3389/fclim.2021.656479/full | https://github.com/aserifi/convolutional-downscaling | 2021 | Apr |
 | Deep Learning for Daily Precipitation and Temperature Downscaling | - | - | - | - | - | https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020WR029308 | - | 2021 | April | 
 | Augmented Convolutional LSTMs for Generation of High-Resolution Climate Change Projections  | - | - | - | - | - | https://ieeexplore.ieee.org/document/9348885 |  https://github.com/cryptonymous9/Augmented-ConvLSTM | 2021 | Febr|
