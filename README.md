@@ -4,8 +4,8 @@
 ## Papers from 2023
 | Title | Input data | Target data| Model(s) | Baselines | Metrics | Paper | Code | Year | Month |
 | -------- | ----- | -------- | ------- | ---- | ----- | ------- | ----- | ---- | ----- |
-| Using Explainability to Inform Statistical Downscaling Based on Deep Learning Beyond Standard Validation Approaches | - | - | - | - | - | https://arxiv.org/pdf/2302.01771.pdf | - | 2023 | Febr |
-| Physics-Constrained Deep Learning for Climate Downscaling | - | - | - | - | - | https://arxiv.org/abs/2208.05424 | https://github.com/RolnickLab/constrained-downscaling | 2023 | Febr |
+| Using Explainability to Inform Statistical Downscaling Based on Deep Learning Beyond Standard Validation Approaches | ERA_Interim | EWEMBI | - | - | - | https://arxiv.org/pdf/2302.01771.pdf | - | 2023 | Febr |
+| Physics-Constrained Deep Learning for Climate Downscaling | ERA5 downsampled, WRF T2, NorESM LM TAS | ERA5, WRF T2, NorESM MM TAS | constr. CNN, GAN, ConvGRU, DeepVoxel | Bicubic, CNN, GAN | MSE, MAE, bias, SSIM, MS-SSIm, CRPS, Pearcon corr.| https://arxiv.org/abs/2208.05424 | https://github.com/RolnickLab/constrained-downscaling | 2023 | Febr |
 | ClimaX: A foundation model for weather and climate |  - | - | - | - | - | https://arxiv.org/abs/2301.10343 | https://github.com/microsoft/climax | 2023 | Jan |
 | DL4DS—Deep learning for empirical downscaling | - | - | - | - | - | https://www.cambridge.org/core/journals/environmental-data-science/article/dl4dsdeep-learning-for-empirical-downscaling | https://github.com/carlos-gg/dl4ds | 2023 | Jan |
 
