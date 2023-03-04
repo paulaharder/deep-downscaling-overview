@@ -76,6 +76,7 @@
 | Title | Input data | Target data| Model(s) | Baselines | Metrics | Paper | Code | Year | Month |
 | -------- | ----- | -------- | ------- | ---- | ----- | ------- | ----- | ---- | ----- |
 | Downscaling numerical weather models with GANs | - | - | - | - | - | https://alok.github.io/assets/ci-2019.pdf | - | 2019 | Oct |
+| Quantifying Uncertainty in Discrete-Continuous and Skewed Data with Bayesian Deep Learning | - | - | - | - | - | https://arxiv.org/abs/1802.04742 | - | 2018 | May |
 | Downscaling rainfall using deep learning long short-term memory and feedforward neural network | - | - | - | - | - | https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/joc.6066 | - | 2019 | Mar |
 | Improving Precipitation Estimation Using Convolutional Neural Network | - | - | - | - | - | https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018WR024090 | - | 2019 | Jan |
 | Intercomparison of machine learning methods for statistical downscaling: the case of daily and extreme precipitation | - | - | - | - | - | https://link.springer.com/article/10.1007/s00704-018-2613-3 | - | 2018 | Sept |
