@@ -3,15 +3,15 @@
 
 ## Papers from 2023
 | Title | Input data | Target data| Model(s) | Baselines | Metrics | Paper | Code | Year | Month |
-| -------- | ----- | -------- | ------- | ---- | ----- | ------- | ----- | ---- | ----- |
-| Using Explainability to Inform Statistical Downscaling Based on Deep Learning Beyond Standard Validation Approaches | ERA_Interim | EWEMBI | - | - | - | https://arxiv.org/pdf/2302.01771.pdf | - | 2023 | Febr |
+| ------------------------------------------------------------ | ----- | -------- | ------- | ---- | ----- | ------- | ----- | ---- | ----- |
+| Using Explainability to Inform Statistical Downscaling Based on Deep Learning Beyond Standard Validation Approaches | ERA_Interim | EWEMBI | CNN | - | - | https://arxiv.org/pdf/2302.01771.pdf | - | 2023 | Febr |
 | Physics-Constrained Deep Learning for Climate Downscaling | ERA5 downsampled, WRF T2, NorESM LM TAS | ERA5, WRF T2, NorESM MM TAS | constr. CNN, GAN, ConvGRU, DeepVoxel | Bicubic, CNN, GAN | MSE, MAE, bias, SSIM, MS-SSIm, CRPS, Pearcon corr.| https://arxiv.org/abs/2208.05424 | https://github.com/RolnickLab/constrained-downscaling | 2023 | Febr |
 | ClimaX: A foundation model for weather and climate | MPI-ESM | ERA5 | ClimaX - Pretrained ViT | UNet, ResNet | RMSE, Pearson, bias | https://arxiv.org/abs/2301.10343 | https://github.com/microsoft/climax | 2023 | Jan |
-| DL4DS—Deep learning for empirical downscaling | - | - | - | - | - | https://www.cambridge.org/core/journals/environmental-data-science/article/dl4dsdeep-learning-for-empirical-downscaling | https://github.com/carlos-gg/dl4ds | 2023 | Jan |
+| DL4DS—Deep learning for empirical downscaling | CAMSRA NO2, ERA5, elevation, land mask | CAMS NO2 | CNN, GAN | - | MAE, SSIM, Pearson cor., PSNR | https://www.cambridge.org/core/journals/environmental-data-science/article/dl4dsdeep-learning-for-empirical-downscaling | https://github.com/carlos-gg/dl4ds | 2023 | Jan |
 
 ## Papers from 2022
 | Title | Input data | Target data| Model(s) | Baselines | Metrics | Paper | Code | Year | Month |
-| -------- | ----- | -------- | ------- | ---- | ----- | ------- | ----- | ---- | ----- |
+| ------------------------------------------------------------ | ----- | -------- | ------- | ---- | ----- | ------- | ----- | ---- | ----- |
 | High-resolution downscaling with interpretable deep learning: Rainfall extremes over New Zealand | - | - | - | - | - | https://www.sciencedirect.com/science/article/pii/S2212094722001049 |- | 2022 | Dec |
 | Downscaling Extreme Rainfall Using Physical-Statistical Generative Adversarial Learning | - | - | - | - | - | https://arxiv.org/pdf/2212.01446.pdfhttps://arxiv.org/pdf/2212.01446.pdf | 2022 | Dec |
 | Downscaled hyper-resolution (400 m) gridded datasets of daily precipitation and temperature (2008–2019) for the East–Taylor subbasin (western United States) | - | - | - | - | - | https://essd.copernicus.org/articles/14/4949/2022/ | 2022 | Nov |
@@ -36,7 +36,7 @@
 
 ## Papers from 2021
 | Title | Input data | Target data| Model(s) | Baselines | Metrics | Paper | Code | Year | Month |
-| -------- | ----- | -------- | ------- | ---- | ----- | ------- | ----- | ---- | ----- |
+| ------------------------------------------------------------ | ----- | -------- | ------- | ---- | ----- | ------- | ----- | ---- | ----- |
 | Deconditional Downscaling with Gaussian Processes | - | - | - | - | - |  https://proceedings.neurips.cc/paper/2021/file/94aef38441efa3380a3bed3faf1f9d5d-Paper.pdf | - | 2021 | Dec |
 | MSG-GAN-SD: A Multi-Scale Gradients GAN for Statistical Downscaling of 2-Meter Temperature over the EURO-CORDEX Domain | - | - | - | - | - | https://www.mdpi.com/2673-2688/2/4/36 | - | 2021 | Nov |
 | Fast and accurate learned multiresolution dynamical downscaling for precipitation | WRF precip., T2, IWV, SLP, topography | WRF Precip. | cGAN | CNN, bilinear | MSE, J-S distance, pattern corr. |  https://gmd.copernicus.org/articles/14/6355/2021/gmd-14-6355-2021.pdf | https://github.com/lzhengchun/DSGAN | 2021 | Oct |
@@ -56,7 +56,7 @@
 
 ## Papers from 2020
 | Title | Input data | Target data| Model(s) | Baselines | Metrics | Paper | Code | Year | Month |
-| -------- | ----- | -------- | ------- | ---- | ----- | ------- | ----- | ---- | ----- |
+| ------------------------------------------------------------ | ----- | -------- | ------- | ---- | ----- | ------- | ----- | ---- | ----- |
 | Investigating two super-resolution methods for downscaling precipitation: ESRGAN and CAR | - | - | - | - | - | https://arxiv.org/pdf/2012.01233.pdf | - | 2020 | Dec |
 | Deep-Learning-Based Gridded Downscaling of Surface Meteorological Variables in Complex Terrain. Part I: Daily Maximum and Minimum 2-m Temperature| Downsampled PRISM, elevation | TMAX/TMIN PRISM | UNet | bicubic, regression | MAE, pearson, corr. | https://journals.ametsoc.org/view/journals/apme/59/12/jamc-d-20-0057.1.xml | https://github.com/yingkaisha/JAMC_20_0057 | 2020 | Nov |
 | Deep-Learning-Based Gridded Downscaling of Surface Meteorological Variables in Complex Terrain. Part II: Daily Precipitation | - | - | - | - | - | https://journals.ametsoc.org/view/journals/apme/59/12/jamc-d-20-0058.1.xml  | https://github.com/yingkaisha/JAMC_20_0057 | 2020 | Nov |
