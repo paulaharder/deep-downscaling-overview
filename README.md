@@ -33,7 +33,10 @@
 | Super-resolution of near-surface temperature utilizing physical quantities for real-time prediction of urban micrometeorology | - | - | - | - | - | https://www.sciencedirect.com/science/article/pii/S0360132321009884  | - | 2022 | Febr |
 | Reconstructing High Resolution ESM Data Through a Novel Fast Super Resolution Convolutional Neural Network (FSRCNN) |  - | - | - | - | - | https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GL097571 | - | 2022 | Febr |
 | Convolutional conditional neural processes for local climate downscaling | - | - | - | - | - | https://gmd.copernicus.org/articles/15/251/2022/gmd-15-251-2022.pdf | https://github.com/annavaughan/convCNPClimate | 2022 | Jan |
-
+| A Novel Deep Learning Approach to the Statistical Downscaling of Temperatures for Monitoring Climate Change | - | - | - | - | - | https://dl.acm.org/doi/10.1145/3523150.3523151 | - | 2022 | Jan |
+| Deep Learning-Based Downscaling of Temperatures for Monitoring Local Climate Change Using Global Climate Simulation Data | - | - | - | - | - | https://doi.org/10.1142/S2811032322500011 | - | 2022 | Sept |
+| A Novel Reference-Based and Gradient-Guided Deep Learning Model for Daily Precipitation Downscaling| - | - | - | - | - | https://www.mdpi.com/2073-4433/13/4/511 | - | 2022 | Mar |
+| Wind-Topo: Downscaling near-surface wind fields to high-resolution topography in highly complex terrain with deep learning| - | - | - | - | - | https://doi.org/10.1002/qj.4265 | - | 2022 | Mar |
 ## Papers from 2021
 | Title | Input data | Target data| Model(s) | Baselines | Metrics | Paper | Code | Year | Month |
 | ------------------------------------------------------------ | ----- | -------- | ------- | ---- | ----- | ------- | ----- | ---- | ----- |
@@ -53,6 +56,9 @@
 | Augmented Convolutional LSTMs for Generation of High-Resolution Climate Change Projections  | - | - | - | - | - | https://ieeexplore.ieee.org/document/9348885 |  https://github.com/cryptonymous9/Augmented-ConvLSTM | 2021 | Febr|
 | ClimAlign: Unsupervised statistical downscaling of climate variables via normalizing flows | - | - | - | - | - | https://dl.acm.org/doi/10.1145/3429309.3429318 |  https://github.com/bgroenks96/generative-downscaling  | 2021 | Jan |
 | Deep learning-based downscaling of summer monsoon rainfall data over Indian region | - | - | - | - | - | https://link.springer.com/article/10.1007/s00704-020-03489-6 | - | 2021 | Jan |
+| Regional downscaling of climate data using deep learning and applications for drought and rainfall forecasting| - | - | - | - | - | https://eresearchnz.figshare.com/articles/presentation/Regional_downscaling_of_climate_data_using_deep_learning_and_applications_for_drought_and_rainfall_forecasting/14110157/1 | - | 2021 | Feb |
+| Deep learning-based downscaling of seasonal forecasts over the Iberian Peninsula | - | - | - | - | - | https://meetingorganizer.copernicus.org/EGU21/EGU21-12253.html | - | 2021 | Mar |
+| Deep learning-based downscaling of tropospheric nitrogen dioxide using ground-level and satellite observations | - | - | - | - | - | https://pubmed.ncbi.nlm.nih.gov/33940718/ | - | 2021 | Jun |
 
 ## Papers from 2020
 | Title | Input data | Target data| Model(s) | Baselines | Metrics | Paper | Code | Year | Month |
