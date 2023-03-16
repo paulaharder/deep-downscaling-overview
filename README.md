@@ -99,6 +99,6 @@
 | Title | Input data | Target data| Model(s) | Baselines | Metrics | Paper | Code | Year | Month |
 | -------- | ----- | -------- | ------- | ---- | ----- | ------- | ----- | ---- | ----- |
 | Spatial Interpolation of Surface Air Temperatures Using Artificial Neural Networks: Evaluating Their Use for Downscaling GCMs  | - | - | - | - | - | https://doi.org/10.1175/1520-0442(2000)013%3C0886:SIOSAT%3E2.0.CO;2 | - | 2000 | Mar |
-| Title | - | - | - | - | - | Link | - | year | month |
+| Simulation of daily temperatures for climate change scenarios over Portugal: a neural network model approach | - | - | - | - | - | https://www.jstor.org/stable/24866022 | - | 1999 | Sep |
 
 At the moment not included: Other ML techniques than Deep Learning and application to satellite imagery.
