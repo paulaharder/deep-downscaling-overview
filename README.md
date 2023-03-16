@@ -17,6 +17,7 @@
 | Downscaling Extreme Rainfall Using Physical-Statistical Generative Adversarial Learning | - | - | - | - | - | https://arxiv.org/pdf/2212.01446.pdfhttps://arxiv.org/pdf/2212.01446.pdf | 2022 | Dec |
 | Downscaled hyper-resolution (400 m) gridded datasets of daily precipitation and temperature (2008–2019) for the East–Taylor subbasin (western United States) | - | - | - | - | - | https://essd.copernicus.org/articles/14/4949/2022/ | 2022 | Nov |
 | ResDeepD: A residual super-resolution network for deep downscaling of daily precipitation over India | - | - | - | - | - | https://www.cambridge.org/core/journals/environmental-data-science/article/resdeepd-a-residual-superresolution-network-for-deep-downscaling-of-daily-precipitation-over-india | - | 2022 | Nov |
+| Contrastive Learning for Climate Model Bias Correction and Super-Resolution | - | - | - | - | - | https://arxiv.org/abs/2211.07555 | - | 2022 | Nov |
 | A Generative Deep Learning Approach to Stochastic Downscaling of Precipitation Forecasts | - | - | - | - | - | https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022MS003120 | - | 2022 | Oct |
 | Physically constrained generative adversarial networks for improving precipitation fields from Earth system models | - | - | - | - | - | https://www.nature.com/articles/s42256-022-00540-1 | - | 2022 | Oct |
 | RainNet: A Large-Scale Dataset for Spatial Precipitation Downscaling | - | - | - | - | - | https://arxiv.org/pdf/2012.09700.pdf | https://github.com/neuralchen/RainNet | 2022 | Oct |
