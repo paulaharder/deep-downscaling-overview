@@ -5,6 +5,7 @@
 | Title | Input data | Target data| Model(s) | Baselines | Metrics | Paper | Code | Year | Month |
 | ------------------------------------------------------------ | ----- | -------- | ------- | ---- | ----- | ------- | ----- | ---- | ----- |
 | Using Explainability to Inform Statistical Downscaling Based on Deep Learning Beyond Standard Validation Approaches | ERA_Interim | EWEMBI | CNN | - | - | https://arxiv.org/pdf/2302.01771.pdf | - | 2023 | Febr |
+| Algorithmic Hallucinations of Near-Surface Winds: Statistical Downscaling with Generative Adversarial Networks to Convection-Permitting Scales | - | - | - | - | - | https://arxiv.org/abs/2302.08720 | - | 2023 | Febr |
 | Physics-Constrained Deep Learning for Climate Downscaling | ERA5 downsampled, WRF T2, NorESM LM TAS | ERA5, WRF T2, NorESM MM TAS | constr. CNN, GAN, ConvGRU, DeepVoxel | Bicubic, CNN, GAN | MSE, MAE, bias, SSIM, MS-SSIm, CRPS, Pearcon corr.| https://arxiv.org/abs/2208.05424 | https://github.com/RolnickLab/constrained-downscaling | 2023 | Febr |
 | ClimaX: A foundation model for weather and climate | MPI-ESM | ERA5 | ClimaX - Pretrained ViT | UNet, ResNet | RMSE, Pearson, bias | https://arxiv.org/abs/2301.10343 | https://github.com/microsoft/climax | 2023 | Jan |
 | DL4DS—Deep learning for empirical downscaling | CAMSRA NO2, ERA5, elevation, land mask | CAMS NO2 | CNN, GAN | - | MAE, SSIM, Pearson cor., PSNR | https://www.cambridge.org/core/journals/environmental-data-science/article/dl4dsdeep-learning-for-empirical-downscaling | https://github.com/carlos-gg/dl4ds | 2023 | Jan |
@@ -27,7 +28,7 @@
 | Regional climate model emulator based on deep learning: concept and first evaluation of a novel hybrid downscaling approach | - | - | - | - | - | https://link.springer.com/article/10.1007/s00382-022-06343-9 | - | 2022 | Jul |
 | On the modern deep learning approaches for precipitation downscaling | - | - | - | - | - | https://arxiv.org/abs/2207.00808 |- | 2022 | Jul |
 | A Novel Bayesian Deep Learning Approach to the Downscaling of Wind Speed with Uncertainty Quantification | - | - | - | - | - | https://link.springer.com/chapter/10.1007/978-3-031-05981-0_5 | - | 2022 | May |
-| On deep learning-based bias correction and downscaling of multiple climate models simulations | - | - | - | - | - | https://link.springer.com/article/10.1007/s00382-022-06277-2 | - | 2022 | Apr | 
+| On deep learning-based bias correction and downscaling of multiple climate models simulations | - | - | - | - | - | https://link.springer.com/article/10.1007/s00382-022-06277-2 | - | 2022 | Apr |
 | Wind-Topo: Downscaling near-surface wind fields to high-resolution topography in highly complex terrain with deep learning | - | - | - | - | - | https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.4265 | - | 2022 | Mar |
 | Increasing the accuracy and resolution of precipitation forecasts using deep generative models | - | - | - | - | - | https://arxiv.org/pdf/2203.12297.pdf | https://github.com/raspstephan/nwp-downscale | - | 2022 | Mar |
 | Super-resolution of near-surface temperature utilizing physical quantities for real-time prediction of urban micrometeorology | - | - | - | - | - | https://www.sciencedirect.com/science/article/pii/S0360132321009884  | - | 2022 | Febr |
@@ -47,12 +48,12 @@
 | Deep Learning-Based Super-Resolution Climate Simulator-Emulator Framework for Urban Heat Studies | - | - | - | - | - | https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GL094737 | - | 2021 | Sept |
 | Towards Representation Learning of Atmospheric Dynamics | - | - | - | - | - | https://arxiv.org/abs/2109.09076 | https://github.com/sehoffmann/atmodist | 2021 | Sept |
 | Stochastic Super-Resolution for Downscaling Time-Evolving Atmospheric Fields With a Generative Adversarial Network | - | - | - | - | - | https://ieeexplore.ieee.org/document/9246532 | https://github.com/jleinonen/downscaling-rnn-gan | 2021 | sept |
-| A downscaling approach for constructing high-resolution precipitation dataset over the Tibetan Plateau from ERA5 reanalysis | - | - | - | - | - | https://www.sciencedirect.com/science/article/pii/S0169809521001265 | - | 2021 | Jul | 
+| A downscaling approach for constructing high-resolution precipitation dataset over the Tibetan Plateau from ERA5 reanalysis | - | - | - | - | - | https://www.sciencedirect.com/science/article/pii/S0169809521001265 | - | 2021 | Jul |
 | Comparisons of Machine Learning Methods of Statistical Downscaling Method: Case Studies of Daily Climate Anomalies in Thailand | - | - | - | - | - | https://journals.riverpublishers.com/index.php/JWE/article/view/4869 | - | 2021 | Jul |
 | Adjusting spatial dependence of climate model outputs with cycle-consistent adversarial networks |  - | - | - | - | - | https://link.springer.com/article/10.1007/s00382-021-05869-8 | - | 2021 | Jul |
 | On the suitability of deep convolutional neural networks for continental-wide downscaling of climate change projections |  - | - | - | - | - | https://link.springer.com/article/10.1007/s00382-021-05847-0 | - | 2021 | Jun |
 | Spatio-\ Downscaling of Climate Data Using Convolutional and Error-Predicting Neural Networks | - | - | - | - | - | https://www.frontiersin.org/articles/10.3389/fclim.2021.656479/full | https://github.com/aserifi/convolutional-downscaling | 2021 | Apr |
-| Deep Learning for Daily Precipitation and Temperature Downscaling | - | - | - | - | - | https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020WR029308 | - | 2021 | April | 
+| Deep Learning for Daily Precipitation and Temperature Downscaling | - | - | - | - | - | https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020WR029308 | - | 2021 | April |
 | Augmented Convolutional LSTMs for Generation of High-Resolution Climate Change Projections  | - | - | - | - | - | https://ieeexplore.ieee.org/document/9348885 |  https://github.com/cryptonymous9/Augmented-ConvLSTM | 2021 | Febr|
 | ClimAlign: Unsupervised statistical downscaling of climate variables via normalizing flows | - | - | - | - | - | https://dl.acm.org/doi/10.1145/3429309.3429318 |  https://github.com/bgroenks96/generative-downscaling  | 2021 | Jan |
 | Deep learning-based downscaling of summer monsoon rainfall data over Indian region | - | - | - | - | - | https://link.springer.com/article/10.1007/s00704-020-03489-6 | - | 2021 | Jan |
@@ -68,7 +69,7 @@
 | Deep-Learning-Based Gridded Downscaling of Surface Meteorological Variables in Complex Terrain. Part II: Daily Precipitation | - | - | - | - | - | https://journals.ametsoc.org/view/journals/apme/59/12/jamc-d-20-0058.1.xml  | https://github.com/yingkaisha/JAMC_20_0057 | 2020 | Nov |
 | CliGAN: A structurally sensitive convolutional neural network model for statistical downscaling of precipitation from multi-model ensembles | - | - | - | - | - | https://www.mdpi.com/2073-4441/12/12/3353 | - | 2020 | Nov |
 | Radar Super Resolution Using a Deep Convolutional Neural Network | - | - | - | - | - | https://journals.ametsoc.org/view/journals/atot/37/12/jtech-d-20-0074.1.xml?tab_body=pdf | - | 2020 | Nov |
-| Deep-Learning based climate downscaling using the super-resolution method: a case study over the western US | - | - | - | - | - | https://gmd.copernicus.org/preprints/gmd-2020-214/gmd-2020-214.pdf | - | 2020 | Sept | 
+| Deep-Learning based climate downscaling using the super-resolution method: a case study over the western US | - | - | - | - | - | https://gmd.copernicus.org/preprints/gmd-2020-214/gmd-2020-214.pdf | - | 2020 | Sept |
 | A comparative study of convolutional neural network models for wind field downscaling | - | - | - | - | - | https://arxiv.org/ftp/arxiv/papers/2008/2008.12257.pdf | - | 2020 | Sept |
 | Climate Downscaling Using YNet: A Deep Convolutional Network with Skip Connections and Fusion | - | - | - | - | - | https://dl.acm.org/doi/pdf/10.1145/3394486.3403366 | https://github.com/yuminliu/Downscaling | 2020 | Aug |
 | Adversarial super-resolution of climatological wind and solar data | NREL Wind toolkit + NSRDB downsampled (train), NCAR CCSM (test)| NREL Wind toolkit + NSRDB | GAN | bicubic, CNN | MSE | https://www.pnas.org/doi/10.1073/pnas.1918964117|  https://github.com/NREL/PhIRE | 2020 | Jul |
@@ -86,8 +87,13 @@
 | Improving Precipitation Estimation Using Convolutional Neural Network | - | - | - | - | - | https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018WR024090 | - | 2019 | Jan |
 | Intercomparison of machine learning methods for statistical downscaling: the case of daily and extreme precipitation | - | - | - | - | - | https://link.springer.com/article/10.1007/s00704-018-2613-3 | - | 2018 | Sept |
 | Generating High Resolution Climate Change Projections through Single Image Super-Resolution: An Abridged Version | - | - | - | - | - | https://www.ijcai.org/proceedings/2018/0759.pdf | - | 2018 | Aug |
-| Statistical downscaling of precipitation using long short-term memory recurrent neural networks | - | - | - | - | - | https://link.springer.com/article/10.1007/s00704-017-2307-2 | - | 2017 | Nov | 
+| Statistical downscaling of precipitation using long short-term memory recurrent neural networks | - | - | - | - | - | https://link.springer.com/article/10.1007/s00704-017-2307-2 | - | 2017 | Nov |
 | A Machine Learning Approach to Non-uniform Spatial Downscaling of Climate Variables | - | - | - | - | - | https://ieeexplore.ieee.org/abstract/document/8215681 | - | 2017 | Nov |
 | DeepSD: Generating High-Resolution Climate Change Projections through Single Image Super-Resolution | - | - | - | - | - | https://dl.acm.org/doi/10.1145/3097983.3098004 | https://github.com/tjvandal/deepsd | 2017 | Aug |
+
+## Papers before 2017
+| Title | Input data | Target data| Model(s) | Baselines | Metrics | Paper | Code | Year | Month |
+| -------- | ----- | -------- | ------- | ---- | ----- | ------- | ----- | ---- | ----- |
+| Title | - | - | - | - | - | Link | - | year | month |
 
 At the moment not included: Other ML techniques than Deep Learning and application to satellite imagery.
