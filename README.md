@@ -5,7 +5,7 @@
 | Title | Input data | Target data| Model(s) | Baselines | Metrics | Paper | Code | Year | Month |
 | ------------------------------------------------------------ | ----- | -------- | ------- | ---- | ----- | ------- | ----- | ---- | ----- |
 | Using Explainability to Inform Statistical Downscaling Based on Deep Learning Beyond Standard Validation Approaches | ERA_Interim | EWEMBI | CNN | - | - | https://arxiv.org/pdf/2302.01771.pdf | - | 2023 | Febr |
-| Algorithmic Hallucinations of Near-Surface Winds: Statistical Downscaling with Generative Adversarial Networks to Convection-Permitting Scales | - | - | - | - | - | https://arxiv.org/abs/2302.08720 | - | 2023 | Febr |
+| Algorithmic Hallucinations of Near-Surface Winds: Statistical Downscaling with Generative Adversarial Networks to Convection-Permitting Scales | - | GAN | - | - | - | https://arxiv.org/abs/2302.08720 | - | 2023 | Febr |
 | Physics-Constrained Deep Learning for Climate Downscaling | ERA5 downsampled, WRF T2, NorESM LM TAS | ERA5, WRF T2, NorESM MM TAS | constr. CNN, GAN, ConvGRU, DeepVoxel | Bicubic, CNN, GAN | MSE, MAE, bias, SSIM, MS-SSIm, CRPS, Pearcon corr.| https://arxiv.org/abs/2208.05424 | https://github.com/RolnickLab/constrained-downscaling | 2023 | Febr |
 | ClimaX: A foundation model for weather and climate | MPI-ESM | ERA5 | ClimaX - Pretrained ViT | UNet, ResNet | RMSE, Pearson, bias | https://arxiv.org/abs/2301.10343 | https://github.com/microsoft/climax | 2023 | Jan |
 | DL4DS—Deep learning for empirical downscaling | CAMSRA NO2, ERA5, elevation, land mask | CAMS NO2 | CNN, GAN | - | MAE, SSIM, Pearson cor., PSNR | https://www.cambridge.org/core/journals/environmental-data-science/article/dl4dsdeep-learning-for-empirical-downscaling | https://github.com/carlos-gg/dl4ds | 2023 | Jan |
@@ -22,6 +22,7 @@
 | RainNet: A Large-Scale Dataset for Spatial Precipitation Downscaling | - | - | - | - | - | https://arxiv.org/pdf/2012.09700.pdf | https://github.com/neuralchen/RainNet | 2022 | Oct |
 | Downscaling Atmospheric Chemistry Simulations with Physically Consistent Deep Learning | - | - | - | - | - | https://gmd.copernicus.org/preprints/gmd-2022-76/gmd-2022-76.pdf | - | 2022 | Sept |
 | Downscaling multi-model climate projection ensembles with deep learning (DeepESD): contribution to CORDEX EUR-44 | - | - | - | - | - |  https://gmd.copernicus.org/articles/15/6747/2022/ | - | 2022 | Sept |
+| Urban precipitation downscaling using deep learning: a smart city application over Austin, Texas, USA | - | - | - | - | - | https://arxiv.org/abs/2209.06848 | - | 2022 | Aug |
 | Repeatable high-resolution statistical downscaling through deep learning | - | - | - | - | - | https://gmd.copernicus.org/articles/15/7353/2022/gmd-15-7353-2022.pdf | - | 2022 | Aug |
 | Downscaling Earth System Models with Deep Learning | - | - | - | - | - | https://dl.acm.org/doi/pdf/10.1145/3534678.3539031 | - | 2022 | Aug |
 | Machine Learning as a Downscaling Approach for Prediction of Wind Characteristics under Future Climate Change Scenarios |  - | - | - | - | - | https://www.hindawi.com/journals/complexity/2022/8451812/ | - | 2022 | Aug |
