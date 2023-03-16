@@ -42,6 +42,7 @@
 ## Papers from 2021
 | Title | Input data | Target data| Model(s) | Baselines | Metrics | Paper | Code | Year | Month |
 | ------------------------------------------------------------ | ----- | -------- | ------- | ---- | ----- | ------- | ----- | ---- | ----- |
+| Extension of Convolutional Neural Network along Temporal and Vertical Directions for Precipitation Downscaling | - | - | - | - | - | https://arxiv.org/abs/2112.06571 | - | 2021 | Dez |
 | Deconditional Downscaling with Gaussian Processes | - | - | - | - | - |  https://proceedings.neurips.cc/paper/2021/file/94aef38441efa3380a3bed3faf1f9d5d-Paper.pdf | - | 2021 | Dec |
 | MSG-GAN-SD: A Multi-Scale Gradients GAN for Statistical Downscaling of 2-Meter Temperature over the EURO-CORDEX Domain | - | - | - | - | - | https://www.mdpi.com/2673-2688/2/4/36 | - | 2021 | Nov |
 | Fast and accurate learned multiresolution dynamical downscaling for precipitation | WRF precip., T2, IWV, SLP, topography | WRF Precip. | cGAN | CNN, bilinear | MSE, J-S distance, pattern corr. |  https://gmd.copernicus.org/articles/14/6355/2021/gmd-14-6355-2021.pdf | https://github.com/lzhengchun/DSGAN | 2021 | Oct |
