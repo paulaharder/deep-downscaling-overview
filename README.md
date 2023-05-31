@@ -48,6 +48,7 @@
 | MSG-GAN-SD: A Multi-Scale Gradients GAN for Statistical Downscaling of 2-Meter Temperature over the EURO-CORDEX Domain | - | - | - | - | - | https://www.mdpi.com/2673-2688/2/4/36 | - | 2021 | Nov |
 | Fast and accurate learned multiresolution dynamical downscaling for precipitation | WRF precip., T2, IWV, SLP, topography | WRF Precip. | cGAN | CNN, bilinear | MSE, J-S distance, pattern corr. |  https://gmd.copernicus.org/articles/14/6355/2021/gmd-14-6355-2021.pdf | https://github.com/lzhengchun/DSGAN | 2021 | Oct |
 | WiSoSuper: Benchmarking Super-Resolution Methods on Wind and Solar Data | - | - | - | - | - | https://arxiv.org/pdf/2109.08770.pdf | https://github.com/RupaKurinchiVendhan/WiSoSuper | 2021 | Sept |
+| Super-resolution data assimilation | - | - | - | - | - | https://arxiv.org/pdf/2109.08017.pdf | - | 2021 | Sept |
 | Deep Learning-Based Super-Resolution Climate Simulator-Emulator Framework for Urban Heat Studies | - | - | - | - | - | https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GL094737 | - | 2021 | Sept |
 | Towards Representation Learning of Atmospheric Dynamics | - | - | - | - | - | https://arxiv.org/abs/2109.09076 | https://github.com/sehoffmann/atmodist | 2021 | Sept |
 | Stochastic Super-Resolution for Downscaling Time-Evolving Atmospheric Fields With a Generative Adversarial Network | - | - | - | - | - | https://ieeexplore.ieee.org/document/9246532 | https://github.com/jleinonen/downscaling-rnn-gan | 2021 | sept |
