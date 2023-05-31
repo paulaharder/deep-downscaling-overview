@@ -1,5 +1,6 @@
 # Overview Deep Learning for Climate Downscaling/Super-Resolution
 
+Feel free to add any paper on Deep Learning for Climate Super-resolution. Just create a pull request.
 
 ## Papers from 2023
 | Title | Input data | Target data| Model(s) | Baselines | Metrics | Paper | Code | Year | Month |
