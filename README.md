@@ -5,8 +5,7 @@ Feel free to add any paper on Deep Learning for Climate Super-resolution. Just c
 ## Papers from 2023
 | Title | Input data | Target data| Model(s) | Baselines | Metrics | Paper | Code | Year | Month |
 | ------------------------------------------------------------ | ----- | -------- | ------- | ---- | ----- | ------- | ----- | ---- | ----- |
-| Deep Learning Regional Climate Model Emulators: A Comparison of Two Downscaling Training Frameworks
- | ACCESS1.3 | MAR(ACCESS1.3) | U-Net | - | RMSE, Correlation, Wasserstein | https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022MS003593 | https://github.com/marvande/Antarctica-RCM-Emulator/tree/version3 | 2023 | June |
+| Deep Learning Regional Climate Model Emulators: A Comparison of Two Downscaling Training Frameworks | ACCESS1.3 | MAR(ACCESS1.3) | U-Net | - | RMSE, Correlation, Wasserstein | https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022MS003593 | https://github.com/marvande/Antarctica-RCM-Emulator/tree/version3 | 2023 | June |
 | Using Explainability to Inform Statistical Downscaling Based on Deep Learning Beyond Standard Validation Approaches | ERA_Interim | EWEMBI | CNN | - | - | https://arxiv.org/pdf/2302.01771.pdf | - | 2023 | Febr |
 | Algorithmic Hallucinations of Near-Surface Winds: Statistical Downscaling with Generative Adversarial Networks to Convection-Permitting Scales | - | GAN | - | - | - | https://arxiv.org/abs/2302.08720 | - | 2023 | Febr |
 | Physics-Constrained Deep Learning for Climate Downscaling | ERA5 downsampled, WRF T2, NorESM LM TAS | ERA5, WRF T2, NorESM MM TAS | constr. CNN, GAN, ConvGRU, DeepVoxel | Bicubic, CNN, GAN | MSE, MAE, bias, SSIM, MS-SSIm, CRPS, Pearcon corr.| https://arxiv.org/abs/2208.05424 | https://github.com/RolnickLab/constrained-downscaling | 2023 | Febr |
