@@ -10,6 +10,7 @@ Feel free to add any paper on Deep Learning for Climate Super-resolution. Just c
 | Physics-Constrained Deep Learning for Climate Downscaling | ERA5 downsampled, WRF T2, NorESM LM TAS | ERA5, WRF T2, NorESM MM TAS | constr. CNN, GAN, ConvGRU, DeepVoxel | Bicubic, CNN, GAN | MSE, MAE, bias, SSIM, MS-SSIm, CRPS, Pearcon corr.| https://arxiv.org/abs/2208.05424 | https://github.com/RolnickLab/constrained-downscaling | 2023 | Febr |
 | ClimaX: A foundation model for weather and climate | MPI-ESM | ERA5 | ClimaX - Pretrained ViT | UNet, ResNet | RMSE, Pearson, bias | https://arxiv.org/abs/2301.10343 | https://github.com/microsoft/climax | 2023 | Jan |
 | DL4DS—Deep learning for empirical downscaling | CAMSRA NO2, ERA5, elevation, land mask | CAMS NO2 | CNN, GAN | - | MAE, SSIM, Pearson cor., PSNR | https://www.cambridge.org/core/journals/environmental-data-science/article/dl4dsdeep-learning-for-empirical-downscaling | https://github.com/carlos-gg/dl4ds | 2023 | Jan |
+| Toward Explainable and Transferable Deep Downscaling of Atmospheric Pollutants | - | - | EfficientNet | - | MSE, MAE, σ<sup>AE</sup>, MBE | https://ieeexplore.ieee.org/abstract/document/10313233 | - | 2023 | Nov |
 
 ## Papers from 2022
 | Title | Input data | Target data| Model(s) | Baselines | Metrics | Paper | Code | Year | Month |
